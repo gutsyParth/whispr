@@ -8,7 +8,7 @@ Built using modern full-stack technologies with a focus on **speed, security, an
 
 ## 🚀 Live Demo
 
-👉 *(Add your deployed link here — Vercel recommended)*
+👉 https://whispr-flame.vercel.app/
 
 ---
 
